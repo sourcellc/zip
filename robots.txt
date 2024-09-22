@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap:  https://romanobet.zipcpu.com/sitemap.xml
